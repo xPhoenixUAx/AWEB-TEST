@@ -4,13 +4,13 @@ p {
   font-style: normal;
   font-weight: normal;
   text-decoration: none;
-  font-size: 14pt;
+  font-size: 18px;
   margin: 0pt;
   margin-top: 20px;
 }
 .advantages-text {
   font-family: "Times New Roman", Times, serif;
-  font-size: 14pt;
+  font-size: 18px;
 }
 .types {
   text-align: center;
@@ -26,7 +26,7 @@ p {
   font-style: normal;
   font-weight: normal;
   text-decoration: none;
-  font-size: 14pt;
+  font-size: 18px;
 }
 .headname {
   text-align: center;
@@ -63,7 +63,7 @@ th {
   font-style: normal;
   font-weight: normal;
   text-decoration: none;
-  font-size: 14pt;
+  font-size: 18px;
 }
 .pdf-link {
   margin-top: 20px;
@@ -87,7 +87,7 @@ th {
   font-style: normal;
   font-weight: normal;
   text-decoration: none;
-  font-size: 14pt;
+  font-size: 18px;
   display: flex;
   list-style: none;
   gap: 15px;
